@@ -1,0 +1,7 @@
+data/raw/*
+data/processed/*
+!data/**/.gitkeep
+!data/processed/world_cup_predictions.csv
+__pycache__/
+*.pyc
+.env
